@@ -12,17 +12,14 @@ Multi-head Latent Attention (MLA) is a variant of multi-head attention which was
 
 - Implementation Standard Multi-head Atention
 
-  - [] With Defaut
-  - [] With Standard RoPE
-  - [] With Decouple RoPE
-
-- Implementation Standard Multi-head Queries Atention
-
-  - [] With Defaut
-  - [] With Standard RoPE
-  - [] With Decouple RoPE
+  - [x] With Defaut
+  - [x] With Standard RoPE
+  - [x] With Decouple RoPE
 
 - **Implementation Standard Multi-head Latent Atention**
-  - [] With Defaut
-  - [] With Standard RoPE
-  - [] With Decouple RoPE
+
+  - [x] With Defaut
+  - [x] With Standard RoPE
+  - [x] With Decouple RoPE
+
+- Training Script
