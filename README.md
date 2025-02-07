@@ -23,3 +23,5 @@ Multi-head Latent Attention (MLA) is a variant of multi-head attention which was
   - [x] With Decouple RoPE
 
 - Training Script
+
+You can find more implementation in here: [AnythingFromScratchV2](https://github.com/DngBack/AnythingFromScratchV2)
